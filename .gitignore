@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+catboost_info/
+.venv/
+# data & weights
+*.csv
+*.npz
+*.zip
+*.pth
+*.pt
+data/
+**/train/
+train.npz
